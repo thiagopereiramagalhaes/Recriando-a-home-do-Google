@@ -51,15 +51,9 @@ body{
     padding: 12px 8px;
 }
 
-/*Borda do link ativado*/
-.menu__link.active{
-    color: #4285f4;
-    border-bottom: 2px solid  #4285f4;
-}
-
-/*Link não ativado*/
-.menu__link:not(.active){
-    margin-bottom: 2px;
+/*Borda dos links*/
+.menu__link{
+    border-bottom: 2px;
 }
 
 .menu__section.right{
