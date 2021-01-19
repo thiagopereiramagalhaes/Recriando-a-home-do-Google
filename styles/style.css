@@ -59,3 +59,22 @@
     padding: 12px;
 }
 
+.menu__profile{
+    padding: 4px;
+    height: 40px;
+    width: 40px;
+    position: relative;
+}
+
+.menu__avatar{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+
+.menu__avatar--frame{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
